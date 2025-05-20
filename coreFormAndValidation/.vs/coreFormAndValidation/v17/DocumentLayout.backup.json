@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|d:\\download\\he181666_pham_hoang_nam_su24\\coreformandvalidation\\coreformandvalidation\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|solutionrelative:coreformandvalidation\\views\\account\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|d:\\download\\he181666_pham_hoang_nam_su24\\coreformandvalidation\\coreformandvalidation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|solutionrelative:coreformandvalidation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|d:\\download\\he181666_pham_hoang_nam_su24\\coreformandvalidation\\coreformandvalidation\\views\\account\\userdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BF5F2F0-90AE-4F53-BFC1-292C8CF86312}|coreFormAndValidation\\coreFormAndValidation.csproj|solutionrelative:coreformandvalidation\\views\\account\\userdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Views\\Account\\UserList.cshtml",
+              "RelativeDocumentMoniker": "coreFormAndValidation\\Views\\Account\\UserList.cshtml",
+              "ToolTip": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Views\\Account\\UserList.cshtml",
+              "RelativeToolTip": "coreFormAndValidation\\Views\\Account\\UserList.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:16:22.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDetail.cshtml",
+              "DocumentMoniker": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Views\\Account\\UserDetail.cshtml",
+              "RelativeDocumentMoniker": "coreFormAndValidation\\Views\\Account\\UserDetail.cshtml",
+              "ToolTip": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Views\\Account\\UserDetail.cshtml",
+              "RelativeToolTip": "coreFormAndValidation\\Views\\Account\\UserDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T10:10:25.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "coreFormAndValidation\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Download\\HE181666_Pham_Hoang_Nam_SU24\\coreFormAndValidation\\coreFormAndValidation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "coreFormAndValidation\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwDUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:00:59.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
